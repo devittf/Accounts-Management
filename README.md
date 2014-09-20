@@ -1,4 +1,4 @@
-Accounts management
+Accounts Management
 ==============
 This is a project for Software Engineering that myself and three others participated in as our 2nd year group project.
 Code created by myself can be viewed inside the folders labelled "Security" and "Clients". 
