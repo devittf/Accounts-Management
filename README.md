@@ -13,6 +13,6 @@ If testing my apps then the following will be needed to log in:
     
 Logging into the admin terminal is handled differently, to do so, enter the following:
 
-/login TeamAwesome 634197
+    /login TeamAwesome 634197
 
 Once this has been done you will be able to use the admin terminal commands to add and modify user accounts.
